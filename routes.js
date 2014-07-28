@@ -6,12 +6,13 @@ var title = 'Muqq Platform';
 //AWS.config.loadFromPath('./config.json');
 
 exports.index = function(req, res) {
-    res.render('layout', {title: title, content:'home'});
+    res.render('home');
 };
 
 exports.News = function(req, res) {
     res.render('layout', {title: title, content:'News'});
 };
+
 exports.Contact = function(req, res) {
     res.render('layout', {title: title, content:'Contact'});
 };
