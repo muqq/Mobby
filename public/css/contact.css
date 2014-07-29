@@ -1,0 +1,38 @@
+#section_1 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    float: left;
+}
+
+#side_1 {
+    position: absolute;
+    float: left;
+    top: -134px;
+    left: -262px; 
+}
+
+#side_2 {
+    position: absolute;
+    top: 10px;
+    left: 30px; 
+}
+
+#side_3 {
+    position: absolute;
+    top: 310px;
+    left: 76px;
+}
+
+#side_4 {
+    position: absolute;
+    top: 380px;
+    left: 46px;
+}
+
+#section_2 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    float: left;
+}
